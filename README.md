@@ -34,7 +34,7 @@ There are 50 history posts for each account consisting of text, image, number of
 
 - resnet: Utilize pre-trained ResNet to obtain image object embedding.
 - upernet: Utilize pre-trained UperNet to obtain image scene embedding.
-    - Clone https://github.com/CSAILVision/unifiedparsing.git. The package versions are referenced from requirements_upernet.txt.
+    - Clone [UPerNet](https://github.com/CSAILVision/unifiedparsing.git). The package versions are referenced from requirements_upernet.txt.
 
 ### Model
 
