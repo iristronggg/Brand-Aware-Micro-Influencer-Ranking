@@ -1,4 +1,4 @@
-# README Github
+# README
 
 # Which Micro-influencers Are Better for Your Brand? A Multimodal Deep Learning Approach for Brand-aware Micro-influencer Ranking
 
